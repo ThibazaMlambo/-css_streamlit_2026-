@@ -42,7 +42,7 @@ st.image(
 # --- About Section ---
 with st.expander("✨ About Me"):
     st.write("""
-    Hi, I'm THIBAZA MLAMBO — I have recently completed my BSc degree in Computer Science & Biochemistry.
+    Hi, I'm THIBAZA MLAMBO — I have recently completed my BSc degree in Computer Science & Biochemistry at the university of Fort Hare.
     I am now aspiring to pursue Honours in Computer Science, hoping to deepen my knowledge 
     and continue growing in both technical and research fields.
     
@@ -90,6 +90,7 @@ st.image("sunset.jpg", caption="Calm nature vibes kissed by sunset", width=400)
 # --- Contact Section ---
 st.sidebar.header("📬 Connect with Me")
 st.sidebar.write("Email: thibazamlambo@gmail.com")
+
 
 
 
